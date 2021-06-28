@@ -1,0 +1,17 @@
+Nuclear power is the use of nuclear reactions to produce electricity. 
+Nuclear power can be obtained from nuclear fission, nuclear decay and nuclear fusion reactions. 
+Presently, the vast majority of electricity from nuclear power is produced by
+nuclear fission of uranium and plutonium in nuclear power plants.
+Nuclear decay processes are used in niche applications 
+such as radioisotope thermoelectric generators in some space probes such as Voyager 2. 
+Generating electricity from fusion power remains the focus of international research.
+Civilian nuclear power supplied 2,586 terawatt hours (TWh) of electricity in 2019, 
+equivalent to about 10% of global electricity generation,
+and was the second-largest low-carbon power source after hydroelectricity. 
+As of January 2021, there are 442 civilian fission reactors in the world, 
+with a combined electrical capacity of 392 gigawatt (GW). 
+There are also 53 nuclear power reactors under construction and 98 reactors planned, 
+with a combined capacity of 60 GW and 103 GW, respectively. 
+The United States has the largest fleet of nuclear reactors, generating over 800 TWh 
+zero-emissions electricity per year with an average capacity factor of 92%. 
+Most reactors under construction are generation III reactors in Asia.
